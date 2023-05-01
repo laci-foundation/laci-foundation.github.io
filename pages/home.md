@@ -1,7 +1,7 @@
 ---
 layout: home
 title: The Laszlo's Foundation
-description: Uses an easy to customize theme for its website
+description: Providing comfort and confidence, one step at a time
 background: /assets/theme/images/backgr1.jpg
 permalink: /
 ---
