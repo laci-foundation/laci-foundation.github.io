@@ -23,6 +23,6 @@
 
 - name: Prince of Persia
   role: role
-  image: assets/theme/images/Maurice.jpg
+  image: assets/theme/images/maurice.jpg
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
