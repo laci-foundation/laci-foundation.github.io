@@ -15,7 +15,7 @@
 
 - name: The Lannister
   role: Ice Queen
-  image: assets/theme/images/nicole_kidman.jpg # Can be external link
+  image: assets/theme/images/nicole.jpg # Can be external link
   description: >
     Born into the powerful Lannister family, the Ice Queen is known for her icy demeanor and unwavering resolve. Her sharp wit and strategic mind have earned her a reputation as a fierce adversary in both political and 
     personal battles. Some call her an 'ice queen', as she often appears cold and unemotional, making it difficult for others to read her true intentions. But those who have witnessed her in action know that she is a 
