@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: News
+title: How You Can Help
 description: News & blog posts
 permalink: /blog/
 ---
