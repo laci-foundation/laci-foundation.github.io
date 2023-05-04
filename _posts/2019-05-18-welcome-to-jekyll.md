@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-date: 2019-05-18 17:27:15 +0200
+background: assets/theme/images/ezgif.com-webp-to-jpg (1).jpg
 tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
 ---
 
