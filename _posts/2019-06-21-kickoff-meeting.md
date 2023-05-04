@@ -1,7 +1,7 @@
 ---
 title: Outreach
-description: 9-10 September 2019 in Ghent, Belgium.
-background: "assets/theme/images/bigshoes.jpg"
+description: 
+background: "assets/theme/images/ezgif.com-webp-to-jpg (2).jpg"
 
 ---
 
