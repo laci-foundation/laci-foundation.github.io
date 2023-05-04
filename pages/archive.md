@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: How You Can Help
-description: News & blog posts
+description: assets/theme/images/team.jpg
 permalink: /blog/
 ---
 
