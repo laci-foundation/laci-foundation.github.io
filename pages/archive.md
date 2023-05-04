@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: How You Can Help
-background: assets/theme/images/team.jpg
+background: assets/theme/images/bigshoes.jpg
 permalink: /blog/
 ---
 
