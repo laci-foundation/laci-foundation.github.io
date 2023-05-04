@@ -1,10 +1,7 @@
 ---
 title: What We Do
 description: 
-background:
-  img: assets/theme/images/ezgif.com-webp-to-jpg.jpg
-  by: CHUTTERSNAP
-  href: https://unsplash.com/photos/UmncJq4KPcA
+background: assets/theme/images/ezgif.com-webp-to-jpg.jpg
 permalink: /about/
 ---
 
